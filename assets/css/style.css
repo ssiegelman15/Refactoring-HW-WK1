@@ -17,6 +17,12 @@ header {
     color: #ffffff;
 }
 
+main {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
 footer {
     padding: 30px;
     clear: both;
@@ -26,6 +32,10 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+span {
+  color: #d9dcd6;
 }
 
 h1 {
@@ -56,9 +66,6 @@ p {
 }
 
 /* Class Selectors */
-.seo {
-  color: #d9dcd6;
-}
 
 .hero {
     height: 800px;
@@ -79,11 +86,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 .benefits {
     margin-right: 20px;
