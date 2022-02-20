@@ -1,20 +1,20 @@
 /* Universal Selector */
 * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    color: #ffffff
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
 }
 
 /* Element Selectors */
 body {
-    background-color: #d9dcd6;
+  background-color: #d9dcd6;
 }
 
 header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #2a607c;
 }
 
 main {
@@ -47,10 +47,10 @@ aside {
 }
 
 footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+  padding: 30px;
+  clear: both;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
 }
 
 span {
@@ -58,8 +58,8 @@ span {
 }
 
 h1 {
-    display: inline-block;
-    font-size: 48px;
+  display: inline-block;
+  font-size: 48px;
 }
 
 h2 {
@@ -77,24 +77,25 @@ h4 {
 }
 
 nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 li {
-    display: inline-block;
-    margin-left: 25px;
+  display: inline-block;
+  margin-left: 25px;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 figure {
@@ -108,21 +109,21 @@ figure {
 
 /* Class Selectors */
 .float-left {
-    float: left;
-    margin-right: 25px;
+  float: left;
+  margin-right: 25px;
 }
 
 .float-right {
-    float: right;
-    margin-left: 25px;
+  float: right;
+  margin-left: 25px;
 }
 
 .benefit {
-    margin-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
 }
