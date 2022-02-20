@@ -17,6 +17,16 @@ header {
   background-color: #2a607c;
 }
 
+/* Background Photo of Marketing Meeting */
+figure {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 main {
   width: 75%;
   display: inline-block;
@@ -96,15 +106,6 @@ a {
 
 p {
   font-size: 16px;
-}
-
-figure {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
 /* Class Selectors */
