@@ -8,13 +8,7 @@ This page seeks to explain some of the benefits Horiseon can offer to potential 
 
 https://ssiegelman15.github.io/Refactoring-HW-WK1/
 
-## Usage
+## Screenshot of Webpage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot of Webpage](https://user-images.githubusercontent.com/70458726/154855186-763b6e59-95eb-4735-8f77-e184cb003164.png)
 
