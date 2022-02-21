@@ -18,11 +18,13 @@ header {
 }
 
 /* Background Photo of Marketing Meeting */
-figure img {
-  display: block;
-  max-height: 1500px;
-  max-width: 1520px;
+figure {
+  height: 800px;
+  width: 100%;
   margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 main {
