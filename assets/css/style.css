@@ -90,6 +90,7 @@ h4 {
 }
 
 nav {
+  display: inline;
   padding-top: 15px;
   margin-right: 20px;
   float: right;
