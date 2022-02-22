@@ -20,8 +20,8 @@ header {
 /* Background Photo of Marketing Meeting */
 figure img {
   display: block;
-  max-height: 1500px;
-  max-width: 1520px;
+  max-height: auto;
+  max-width: 100%;
   margin-bottom: 25px;
 }
 
