@@ -17,7 +17,16 @@ header {
   background-color: #2a607c;
 }
 
-/* Background Photo of Marketing Meeting */
+nav {
+  display: inline;
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 figure img {
   display: block;
   max-height: auto;
@@ -61,6 +70,8 @@ footer {
   text-align: center;
 }
 
+/* Text Styles */
+
 footer p {
   color:  #000000;
 }
@@ -87,16 +98,6 @@ h3 {
 h4 {
   font-size: 20px;
   color: #000000;
-}
-
-nav {
-  display: inline;
-  padding-top: 15px;
-  margin-right: 20px;
-  float: right;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 20px;
-  text-decoration: none;
 }
 
 li {
